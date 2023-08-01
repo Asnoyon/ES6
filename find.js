@@ -1,6 +1,6 @@
-var numbers = [1,2,3,4];
-var resuts = numbers.find(function(currentValue){
-    return currentValue>3;
+var numbers = [1, 2, 3, 4];
+var results = numbers.find(function (currentValue) {
+  return currentValue > 3;
 });
-console.log(resuts)
-console.log(numbers)
+console.log(results);
+console.log(numbers);
